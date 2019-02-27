@@ -8,23 +8,23 @@ This code is to develop a user interface for a recipies store to share and view 
 
 This code is written in meanstack with Angular and nodeJS with Mongo DB. 
 
-MongoDB : Document database – used by your back-end application to store its data as JSON (JavaScript Object Notation) documents
-Express (sometimes referred to as Express.js): Back-end web application framework running on top of Node.js
-Angular (formerly Angular.js): Front-end web app framework; runs your JavaScript code in the user’s browser, allowing your application UI to be dynamic
-Node.js : JavaScript runtime environment – lets you implement your application back-end in JavaScript
+* MongoDB : Document database – used by your back-end application to store its data as JSON (JavaScript Object Notation) documents
+* Express (sometimes referred to as Express.js): Back-end web application framework running on top of Node.js
+* Angular (formerly Angular.js): Front-end web app framework; runs your JavaScript code in the user’s browser, allowing your application UI to be dynamic
+* Node.js : JavaScript runtime environment – lets you implement your application back-end in JavaScript
 
 # Features
-Home page with a slide show briefing about the recipes 
-User can browse recipes based on the recipe selection from Home page
-UI with Recipe List for each category with data such as - Image , name, Description, posted by, prep time, cook time and ingrediants are listed
-User can switch between different categories based on the selection.
-Submit new recipes
-Archives old recipes from store
-Like share and comment on recipes
+* Home page with a slide show briefing about the recipes 
+* User can browse recipes based on the recipe selection from Home page
+* UI with Recipe List for each category with data such as - Image , name, Description, posted by, prep time, cook time and ingrediants are listed
+* User can switch between different categories based on the selection.
+* Submit new recipes
+* Archives old recipes from store
+* Like share and comment on recipes
 
 
 # Functionalities Expected
-Displays all the recipes and its details.
+* Displays all the recipes and its details.
 
 # How to get this environment configured
 
